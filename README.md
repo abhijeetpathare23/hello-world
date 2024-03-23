@@ -1,2 +1,2 @@
-Hey this is my repository @bhi
+Hey this is my repository 
 Welcome to my repository
